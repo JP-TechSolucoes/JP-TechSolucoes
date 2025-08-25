@@ -3,7 +3,7 @@
 [![Youtube](https://img.icons8.com/?size=50&id=19318&format=png&color=000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCIHuv4LvVZQuoBV7MvBbi4A)
 [![Whatsapp](https://img.icons8.com/?size=50&id=16713&format=png&color=000000?style=for-the-badge&logo=instagram&logoColor=white)](https://wa.me/+5511967985662)
 [![Instagram](https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/japaviannasi?igsh=MW5nMTd5bDNtbDZr)
-[![Linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aguinaldo-de-santana/)
+[![Linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jp-tech-solucoes-8a8977380])
 [![Tiktok](https://img.icons8.com/?size=50&id=118640&format=png&color=000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@japa.vianna)
 [![Twitch](https://img.icons8.com/?size=50&id=7qFfaszJSlTs&format=png&color=000000?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/japavianna)
 [![Facebook](https://img.icons8.com/?size=50&id=118497&format=png&color=000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/profile.php?id=61579616994880&locale=pt_BR)
