@@ -1,6 +1,10 @@
 ### Olá! Seja bem vindo a JP Tech Soluções ✨
 
 [![Youtube](https://img.icons8.com/?size=50&id=19318&format=png&color=000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCIHuv4LvVZQuoBV7MvBbi4A)
+<a href="https://youtube.com/channel/UCIHuv4LvVZQuoBV7MvBbi4A" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/?size=50&id=19318&format=png&color=000000" alt="Youtube" />
+</a>
+
 [![Whatsapp](https://img.icons8.com/?size=50&id=16713&format=png&color=000000?style=for-the-badge&logo=instagram&logoColor=white)](https://wa.me/+5511967985662)
 [![Instagram](https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/japaviannasi?igsh=MW5nMTd5bDNtbDZr)
 [![Linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jp-tech-solucoes-8a8977380])
